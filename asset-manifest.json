@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/YuYeeGarden/static/css/main.89bdfd88.chunk.css",
+    "main.js": "/YuYeeGarden/static/js/main.49350268.chunk.js",
+    "main.js.map": "/YuYeeGarden/static/js/main.49350268.chunk.js.map",
+    "runtime-main.js": "/YuYeeGarden/static/js/runtime-main.25f6ad0b.js",
+    "runtime-main.js.map": "/YuYeeGarden/static/js/runtime-main.25f6ad0b.js.map",
+    "static/css/2.4b76de4e.chunk.css": "/YuYeeGarden/static/css/2.4b76de4e.chunk.css",
+    "static/js/2.69cf03f6.chunk.js": "/YuYeeGarden/static/js/2.69cf03f6.chunk.js",
+    "static/js/2.69cf03f6.chunk.js.map": "/YuYeeGarden/static/js/2.69cf03f6.chunk.js.map",
+    "static/js/3.78f6d227.chunk.js": "/YuYeeGarden/static/js/3.78f6d227.chunk.js",
+    "static/js/3.78f6d227.chunk.js.map": "/YuYeeGarden/static/js/3.78f6d227.chunk.js.map",
+    "index.html": "/YuYeeGarden/index.html",
+    "static/css/2.4b76de4e.chunk.css.map": "/YuYeeGarden/static/css/2.4b76de4e.chunk.css.map",
+    "static/css/main.89bdfd88.chunk.css.map": "/YuYeeGarden/static/css/main.89bdfd88.chunk.css.map",
+    "static/js/2.69cf03f6.chunk.js.LICENSE.txt": "/YuYeeGarden/static/js/2.69cf03f6.chunk.js.LICENSE.txt",
+    "static/media/banner1.1dbbf1c5.jpeg": "/YuYeeGarden/static/media/banner1.1dbbf1c5.jpeg",
+    "static/media/banner2.1cc42bbe.jpeg": "/YuYeeGarden/static/media/banner2.1cc42bbe.jpeg",
+    "static/media/banner3.776cb3f3.jpeg": "/YuYeeGarden/static/media/banner3.776cb3f3.jpeg",
+    "static/media/banner4.6513e534.jpeg": "/YuYeeGarden/static/media/banner4.6513e534.jpeg",
+    "static/media/banner5.dc8b1e6c.jpeg": "/YuYeeGarden/static/media/banner5.dc8b1e6c.jpeg",
+    "static/media/banner6.21d44ac5.jpeg": "/YuYeeGarden/static/media/banner6.21d44ac5.jpeg",
+    "static/media/googlemap.89ee6659.jpeg": "/YuYeeGarden/static/media/googlemap.89ee6659.jpeg",
+    "static/media/img1.4c8a3244.jpeg": "/YuYeeGarden/static/media/img1.4c8a3244.jpeg",
+    "static/media/img2.040be72e.jpeg": "/YuYeeGarden/static/media/img2.040be72e.jpeg",
+    "static/media/img3.98ae2d09.jpeg": "/YuYeeGarden/static/media/img3.98ae2d09.jpeg",
+    "static/media/img4.844923c4.jpeg": "/YuYeeGarden/static/media/img4.844923c4.jpeg",
+    "static/media/img5.b9df75fd.jpeg": "/YuYeeGarden/static/media/img5.b9df75fd.jpeg",
+    "static/media/img6.2096242d.jpeg": "/YuYeeGarden/static/media/img6.2096242d.jpeg",
+    "static/media/img7.a42ada1e.jpeg": "/YuYeeGarden/static/media/img7.a42ada1e.jpeg",
+    "static/media/img8.35b1aaa3.jpeg": "/YuYeeGarden/static/media/img8.35b1aaa3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f6ad0b.js",
+    "static/css/2.4b76de4e.chunk.css",
+    "static/js/2.69cf03f6.chunk.js",
+    "static/css/main.89bdfd88.chunk.css",
+    "static/js/main.49350268.chunk.js"
+  ]
+}
